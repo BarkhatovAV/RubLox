@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23f4ceb4595a2a64db8a209d02b28c1e, type: 3}
+  m_Name: GravityGun
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Game:GravityGun
+  <TranslationId>k__BackingField: Item/GravityGun
+  <MaxStack>k__BackingField: 1
+  <Icon>k__BackingField: {fileID: -106581924, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 2599220997909142232, guid: ee7f65924e4af5f4abf1c3814ee690b9, type: 3}
+  <Mesh>k__BackingField: {fileID: 6306710258701759483, guid: 3630cd5e8921a2f45b1ff8293bd908eb, type: 3}
+  <Material>k__BackingField: {fileID: 7139221521224985458, guid: 3630cd5e8921a2f45b1ff8293bd908eb, type: 3}
+  <CanDrop>k__BackingField: 0
+  <DebugItem>k__BackingField: 0

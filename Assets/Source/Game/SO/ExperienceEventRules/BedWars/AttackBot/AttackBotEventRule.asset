@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 774a62c77c467e040b53fa4c6b28fddc, type: 3}
+  m_Name: AttackBotEventRule
+  m_EditorClassIdentifier: 
+  _defaultExperienceEventRule: {fileID: 11400000, guid: 05e06d09b51dc774bbf6a684429f28d8, type: 2}
+  _itemExperienceRules:
+  - <Item>k__BackingField: {fileID: 11400000, guid: 1b7374ff5883fbb40828a6b8d70d9aff, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: e3509cf6ffe18834f85fbc134a136d0f, type: 2}
+    <Experience>k__BackingField: 2
+  - <Item>k__BackingField: {fileID: 11400000, guid: 6dbe4c7ceccefe64f8ebd4365e0f9ddc, type: 2}
+    <Experience>k__BackingField: 3
+  - <Item>k__BackingField: {fileID: 11400000, guid: 137424366c1f04c45930d1b44acabbc7, type: 2}
+    <Experience>k__BackingField: 4
+  - <Item>k__BackingField: {fileID: 11400000, guid: 7508c3566dd17a142b3779c24cb47fc2, type: 2}
+    <Experience>k__BackingField: 2

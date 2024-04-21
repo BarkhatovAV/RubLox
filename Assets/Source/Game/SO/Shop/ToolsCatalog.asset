@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51056bedb7fd1440696b156a517c51f1, type: 3}
+  m_Name: ToolsCatalog
+  m_EditorClassIdentifier: 
+  _name: Tools
+  _products:
+  - _item: {fileID: 11400000, guid: 583e9588bcadb284d82e65202859aaa4, type: 2}
+    _count: 1
+    _priceItem: {fileID: 11400000, guid: caa91a00dc8d71c449304bc15eba5df5, type: 2}
+    _priceItemCount: 8
+    _single: 1
+    _lockedItem: {fileID: 0}
+  - _item: {fileID: 11400000, guid: 98a0b6893824e984aa71ec8734b48764, type: 2}
+    _count: 1
+    _priceItem: {fileID: 11400000, guid: caa91a00dc8d71c449304bc15eba5df5, type: 2}
+    _priceItemCount: 32
+    _single: 1
+    _lockedItem: {fileID: 0}
+  - _item: {fileID: 11400000, guid: 6367d5312a295a94eafe5de138ebb6fb, type: 2}
+    _count: 1
+    _priceItem: {fileID: 11400000, guid: caa91a00dc8d71c449304bc15eba5df5, type: 2}
+    _priceItemCount: 102
+    _single: 1
+    _lockedItem: {fileID: 0}
+  - _item: {fileID: 11400000, guid: e9d2c8d3681ce7540925d1cf766dd27f, type: 2}
+    _count: 1
+    _priceItem: {fileID: 11400000, guid: b790cdd0040837340950f711c979458b, type: 2}
+    _priceItemCount: 10
+    _single: 1
+    _lockedItem: {fileID: 0}
+  - _item: {fileID: 11400000, guid: 1b7374ff5883fbb40828a6b8d70d9aff, type: 2}
+    _count: 1
+    _priceItem: {fileID: 11400000, guid: caa91a00dc8d71c449304bc15eba5df5, type: 2}
+    _priceItemCount: 8
+    _single: 1
+    _lockedItem: {fileID: 0}
+  - _item: {fileID: 11400000, guid: e3509cf6ffe18834f85fbc134a136d0f, type: 2}
+    _count: 1
+    _priceItem: {fileID: 11400000, guid: caa91a00dc8d71c449304bc15eba5df5, type: 2}
+    _priceItemCount: 32
+    _single: 1
+    _lockedItem: {fileID: 0}
+  - _item: {fileID: 11400000, guid: 6dbe4c7ceccefe64f8ebd4365e0f9ddc, type: 2}
+    _count: 1
+    _priceItem: {fileID: 11400000, guid: caa91a00dc8d71c449304bc15eba5df5, type: 2}
+    _priceItemCount: 102
+    _single: 1
+    _lockedItem: {fileID: 0}
+  - _item: {fileID: 11400000, guid: 137424366c1f04c45930d1b44acabbc7, type: 2}
+    _count: 1
+    _priceItem: {fileID: 11400000, guid: b790cdd0040837340950f711c979458b, type: 2}
+    _priceItemCount: 10
+    _single: 1
+    _lockedItem: {fileID: 0}
+  - _item: {fileID: 11400000, guid: 7508c3566dd17a142b3779c24cb47fc2, type: 2}
+    _count: 1
+    _priceItem: {fileID: 11400000, guid: b790cdd0040837340950f711c979458b, type: 2}
+    _priceItemCount: 5
+    _single: 1
+    _lockedItem: {fileID: 0}
+  - _item: {fileID: 11400000, guid: e36e49409a21102468a5169950542415, type: 2}
+    _count: 8
+    _priceItem: {fileID: 11400000, guid: caa91a00dc8d71c449304bc15eba5df5, type: 2}
+    _priceItemCount: 3
+    _single: 0
+    _lockedItem: {fileID: 0}
+  _icon: {fileID: 0}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 774a62c77c467e040b53fa4c6b28fddc, type: 3}
+  m_Name: PlaceBlockEventRule
+  m_EditorClassIdentifier: 
+  _defaultExperienceEventRule: {fileID: 11400000, guid: 868d9c020d148374392ac3f76730ea1f, type: 2}
+  _itemExperienceRules:
+  - <Item>k__BackingField: {fileID: 11400000, guid: 2d5860882d424f04f8836bd68c327faa, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: d50eff08a6bd5b74786742d75ebb0c21, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 2860955886fd4e94c9f9e7521e18da9e, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: e8aa34328f65f654298d8db11f65eb07, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 07ab9755cd5a6a44c913d09f1ce9a50b, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 7830eccd1679f5f41beb2eb4c436d11c, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 7477dc522b1b79a4abbb13985f6c1321, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: d21219d1ae7d3af40a14cc8edf1d28c2, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 24bd0afc7a82ce34384d69a900fe79ac, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 3588ccc73a26547468e1da17ea4b747a, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 768c926d7ea2bb64c8927d573bb194ec, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: b12b9bac25a51c34eb66d9539edf7a00, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: a2f934d069f1f4a4bbb059f7015c4745, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: b1d143ddf6bfd6d4bbe6917d87a75eb7, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 2793e67a5c5120043a61a1134c97420d, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 04b02fe3812d5bf499c3bf25c0c93476, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 45a478d7ac1a1bc448df5dc7bd6f8cfd, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 8543f42f48a27eb49bbca7e54816a1d3, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: bbaa080b3485afc41ada3f37623a13a4, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 6a4006669d890ac4f9255e8499e233bd, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 3127bff1f4c20194a9b930b80d76ec77, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 2e92883318252e94dbc1332f84c15ca9, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 425cf26e984684745828c9534b2022cb, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: a7cdda03156297846ac89d88904fb958, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: a4b0e1626f2fb3b47bec1b2ba334d2d2, type: 2}
+    <Experience>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 0c347cbfe9acb5545b3d4201fd95b4cf, type: 2}
+    <Experience>k__BackingField: 1

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d16a6f2b9f70b54486c8cfadb07c175, type: 3}
+  m_Name: SantaSkin
+  m_EditorClassIdentifier: 
+  <SaveKey>k__BackingField: NewYearEventRewardSkin6
+  <Name>k__BackingField: UnlockedRewards/Santa
+  <Icon>k__BackingField: {fileID: 21300000, guid: dadd1819f3b54024683c48e8f98b5d3a, type: 3}

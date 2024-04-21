@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 634ef49aba0c44b0a9bce15b49222a01, type: 3}
+  m_Name: Iron
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Game:Iron
+  <TranslationId>k__BackingField: Item/Iron
+  <MaxStack>k__BackingField: 128
+  <Icon>k__BackingField: {fileID: 399753952, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 5751195622723804337, guid: 81228d8c56e098649a29bba32069c32e, type: 3}
+  <Mesh>k__BackingField: {fileID: -8447589106756106473, guid: 0661718ec18051942820266aea65766f, type: 3}
+  <Material>k__BackingField: {fileID: 2100000, guid: f298f426873ff364e90e37e08ed11434, type: 2}
+  <CanDrop>k__BackingField: 1

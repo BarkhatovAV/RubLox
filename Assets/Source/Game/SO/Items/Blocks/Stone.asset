@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ae92e959dda4b33b14ebdcf2b097b0a, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Game:Stone
+  <TranslationId>k__BackingField: Item/Stone
+  <MaxStack>k__BackingField: 999
+  <Icon>k__BackingField: {fileID: -400123327, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 7752722693897123279, guid: fb90c2e6b3c9097439b660eeda3ada78, type: 3}
+  <Mesh>k__BackingField: {fileID: -8252549543855294974, guid: 24425d590ab94a84ca315a4a6c4b9e76, type: 3}
+  <Material>k__BackingField: {fileID: 2100000, guid: d770f45402c2e7e428c3df8198345799, type: 2}
+  <CanDrop>k__BackingField: 1
+  <Health>k__BackingField: 30
+  <BlockTemplate>k__BackingField: {fileID: 7752722693897123279, guid: 14321e6985fd6a346bbae144b707ec2c, type: 3}

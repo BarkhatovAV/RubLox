@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb7959647246cf24c937dc11327c430f, type: 3}
+  m_Name: LavaTrap
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Sandbox:Trap
+  <TranslationId>k__BackingField: Item/Trap
+  <MaxStack>k__BackingField: 999
+  <Icon>k__BackingField: {fileID: -236478952, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 7752722693897123279, guid: edc8bf2282ee2bb47a8308a4f494e6fc, type: 3}
+  <Mesh>k__BackingField: {fileID: -1302571041401480317, guid: 61fb0853536280e418b612ae6cfdc5be, type: 3}
+  <Material>k__BackingField: {fileID: 2100000, guid: d770f45402c2e7e428c3df8198345799, type: 2}
+  <CanDrop>k__BackingField: 1
+  <Health>k__BackingField: 50
+  <BlockTemplate>k__BackingField: {fileID: 1563042211327751725, guid: 462bd61c2f1e63e46a4e1d792399a023, type: 3}
+  <TriggerCollider>k__BackingField: 0
+  <InteractableObject>k__BackingField: {fileID: 4203346336877512387, guid: cfb01aba909f300499fd3d93e3fb5df1, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ae92e959dda4b33b14ebdcf2b097b0a, type: 3}
+  m_Name: Leaves
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Game:Leaves
+  <TranslationId>k__BackingField: Item/Leaves
+  <MaxStack>k__BackingField: 999
+  <Icon>k__BackingField: {fileID: 1055021922, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 7752722693897123279, guid: 5e2d3ce17bf083a4a916214f36db561b, type: 3}
+  <Mesh>k__BackingField: {fileID: -1512336857594403192, guid: 24425d590ab94a84ca315a4a6c4b9e76, type: 3}
+  <Material>k__BackingField: {fileID: 2100000, guid: d770f45402c2e7e428c3df8198345799, type: 2}
+  <CanDrop>k__BackingField: 1
+  <Health>k__BackingField: 7
+  <BlockTemplate>k__BackingField: {fileID: 7752722693897123279, guid: ccf2bb749ee30174486b28bfc7789049, type: 3}

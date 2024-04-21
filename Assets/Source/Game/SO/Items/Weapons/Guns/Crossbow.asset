@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23f4ceb4595a2a64db8a209d02b28c1e, type: 3}
+  m_Name: Crossbow
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Game:Crossbow
+  <TranslationId>k__BackingField: Item/Crossbow
+  <MaxStack>k__BackingField: 1
+  <Icon>k__BackingField: {fileID: 284272636, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 485922814301526917, guid: b5954f7f4f6923049b5ed7d576ee4fc5, type: 3}
+  <Mesh>k__BackingField: {fileID: -3368532254180286759, guid: a6ce7b9330d0f2746a8c456f675fac96, type: 3}
+  <Material>k__BackingField: {fileID: 2100000, guid: fb9835eb7d06db848ac34a6ff732e0bf, type: 2}
+  <CanDrop>k__BackingField: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cec2ce05074e7534f8877ebc10667e05, type: 3}
+  m_Name: NeverendingArrow
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Game:NeverendingArrow
+  <TranslationId>k__BackingField: Item/Arrow
+  <MaxStack>k__BackingField: 999
+  <Icon>k__BackingField: {fileID: 1838817337, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 697465639276388072, guid: df966f14246504f4d87b70a1dbee88da, type: 3}
+  <Mesh>k__BackingField: {fileID: 7080300451915637976, guid: a6ce7b9330d0f2746a8c456f675fac96, type: 3}
+  <Material>k__BackingField: {fileID: 2100000, guid: fb9835eb7d06db848ac34a6ff732e0bf, type: 2}
+  <CanDrop>k__BackingField: 1

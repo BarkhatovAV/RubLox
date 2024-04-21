@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26b074aa283a6494a9ab6eb6ff177418, type: 3}
+  m_Name: WoodPick
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Game:WoodPick
+  <TranslationId>k__BackingField: Item/WoodPick
+  <MaxStack>k__BackingField: 1
+  <Icon>k__BackingField: {fileID: -602445383, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 7815383210725811246, guid: 3bc1a9440ffa2ed49b7932c4087c2a16, type: 3}
+  <Mesh>k__BackingField: {fileID: -1962163456477189815, guid: 3f9a6cca37f116a41970fbb6d3c0962c, type: 3}
+  <Material>k__BackingField: {fileID: 2100000, guid: fb9835eb7d06db848ac34a6ff732e0bf, type: 2}
+  <CanDrop>k__BackingField: 0
+  <DigDelay>k__BackingField: 0.45
+  <Damage>k__BackingField: 5

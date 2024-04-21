@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcc45a3dd43e29044b00868e2a494f87, type: 3}
+  m_Name: AgressiveBotSpawner
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Sandbox:AgressiveBotSpawner
+  <TranslationId>k__BackingField: Item/BotSpawn
+  <MaxStack>k__BackingField: 1
+  <Icon>k__BackingField: {fileID: -1630988355, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 3297568926201490293, guid: d0e57cc9259e5ff4ab3a08d6211498f6, type: 3}
+  <Mesh>k__BackingField: {fileID: -1382138696804023143, guid: 14e638129704b1041a2fab0e31f143ac, type: 3}
+  <Material>k__BackingField: {fileID: 2100000, guid: f298f426873ff364e90e37e08ed11434, type: 2}
+  <CanDrop>k__BackingField: 0
+  <DebugItem>k__BackingField: 0
+  <BotTemplate>k__BackingField: {fileID: 8378669543066563305, guid: 1ce12f04c2d11e0489dba7536d689777, type: 3}

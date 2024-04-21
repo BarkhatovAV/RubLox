@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a255dd7c6c942349b96f9b74d47fb15, type: 3}
+  m_Name: StoneSword
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: Game:StoneSword
+  <TranslationId>k__BackingField: Item/StoneSword
+  <MaxStack>k__BackingField: 1
+  <Icon>k__BackingField: {fileID: 1582202964, guid: b0cab0a9078e5284c9d7162cbdf50142, type: 3}
+  <HandTemplate>k__BackingField: {fileID: 3721794493260626215, guid: 286b97f4ce2c4594fa89d1568ae01caf, type: 3}
+  <Mesh>k__BackingField: {fileID: 5915720551123768752, guid: 23e1033d25c084b41ab883e4ea2e47c7, type: 3}
+  <Material>k__BackingField: {fileID: 2100000, guid: fb9835eb7d06db848ac34a6ff732e0bf, type: 2}
+  <CanDrop>k__BackingField: 0
