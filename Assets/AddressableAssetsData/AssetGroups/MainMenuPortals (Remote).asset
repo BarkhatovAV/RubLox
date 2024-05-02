@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: MainMenuPortals (Remote)
+  m_EditorClassIdentifier: 
+  m_GroupName: MainMenuPortals (Remote)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 86e2750e38a41094597195abb1af4912
+  m_SerializeEntries:
+  - m_GUID: 6d3e1bd91023c644a9fbb171af885f4d
+    m_Address: Portals
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee1a2e32b05cdb54a90cce51388d18ae
+    m_Address: CoffeeBreakCanvas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcfa45fa7249c0f4abac560e9691bca7
+    m_Address: Milk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51cc8f20e1add03448b39c7cad65f38a
+    m_Address: InterstitialOnStartYandexGame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5e131aa1b465dd841afad9a9f0cfec41, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 96667135628638e4ca79c5e12c3abc9c, type: 2}
+    - {fileID: 11400000, guid: 71e156fbd2bf1b54a949a8c5284d8613, type: 2}
