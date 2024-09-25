@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">676742645042</string>
+  <string name="google_storage_bucket" translatable="false">melon-craft.appspot.com</string>
+  <string name="project_id" translatable="false">melon-craft</string>
+  <string name="google_api_key" translatable="false">AIzaSyB76_QmVclFZNSOOb20okpOjhOXDDjd1M8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB76_QmVclFZNSOOb20okpOjhOXDDjd1M8</string>
+  <string name="google_app_id" translatable="false">1:676742645042:android:a8d987d917bb8672e1432b</string>
+  <string name="default_web_client_id" translatable="false">676742645042-b7j31lkvqlv48lbii6p4b4klc48f7khl.apps.googleusercontent.com</string>
+</resources>

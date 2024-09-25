@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676742645042",
+    "project_id": "melon-craft",
+    "storage_bucket": "melon-craft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676742645042:android:a8d987d917bb8672e1432b",
+        "android_client_info": {
+          "package_name": "com.Agava.MelonCraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676742645042-b7j31lkvqlv48lbii6p4b4klc48f7khl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB76_QmVclFZNSOOb20okpOjhOXDDjd1M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676742645042-b7j31lkvqlv48lbii6p4b4klc48f7khl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
